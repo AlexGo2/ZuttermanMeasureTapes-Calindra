@@ -7,6 +7,8 @@ práticas de semântica e responsividade, com boas práticas de utilização dos
 JS, etc. Você poderá pedir qualquer tipo de recurso extra para o site (ex. fontes, vetores entre
 outras coisas que achar necessário).
 
-*Html*Css*Bootstrap
+*Html
+*Css
+*Bootstrap
 
 
